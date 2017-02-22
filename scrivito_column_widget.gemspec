@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = "scrivito_column_widget"
   s.version     = ScrivitoColumnWidget::VERSION
-  s.authors     = ["Antony Siegert"]
+  s.authors     = ["Scrivito"]
   s.email       = ["support@scrivito.com"]
   s.homepage    = "https://www.scrivito.com"
   s.summary     = "Scrivito Column Widget."
